@@ -19,6 +19,7 @@ hr{
     vertical-align: middle;
     margin-right: 5px;
     height: 16px;
+    width: auto;
 }
 
 .sub-title{
@@ -56,6 +57,10 @@ hr{
     .sub-title {
         margin: 15px 0 0;
     }
+    
+    .svg {
+        height: 14px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -70,10 +75,19 @@ hr{
     hr {
         margin: 8px 0 0;
     }
+    
+    .svg {
+        height: 12px;
+        margin-right: 3px;
+    }
 }
 
 @media (max-width: 320px) {
     body {
         margin: 10px;
+    }
+    
+    .svg {
+        height: 11px;
     }
 }
