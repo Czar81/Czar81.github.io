@@ -1,5 +1,5 @@
 body{
-    font-family: monospace;
+    font-family: sans-serif;
     margin: 30px;
     max-width: 100%;
     box-sizing: border-box;
@@ -31,6 +31,10 @@ hr{
 .content{
     margin-top: 5px;
     font-size: clamp(14px, 3.5vw, 16px);
+}
+
+.subheading{
+    font-weight: bold;
 }
 
 #head{
