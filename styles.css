@@ -1,7 +1,7 @@
 body{
     font-family: sans-serif;
-    margin: 30px;
-    max-width: 100%;
+    margin: 30px auto;
+    max-width: 70%;
     box-sizing: border-box;
 }
 
@@ -68,23 +68,40 @@ footer{
     font-style: italic;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     body {
-        margin: 20px;
+        margin: 27px;
+        max-width: 100%;
     }
     
     .sub-title {
-        margin: 15px 0 0;
+        margin: 20px 0 0;
     }
     
     .svg {
-        height: 14px;
+        height: 17px;
+    }
+}
+
+@media (max-width: 850px) {
+    body {
+        margin: 22px;
+        max-width: 100%;
+    }
+    
+    .sub-title {
+        margin: 16px 0 0;
+    }
+    
+    .svg {
+        height: 15px;
     }
 }
 
 @media (max-width: 480px) {
     body {
         margin: 15px;
+        max-width: 100%;
     }
     
     .sub-title {
@@ -104,6 +121,7 @@ footer{
 @media (max-width: 320px) {
     body {
         margin: 10px;
+        max-width: 100%;
     }
     
     .svg {
