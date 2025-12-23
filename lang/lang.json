@@ -1,0 +1,108 @@
+{
+  "es": {
+    "degree": "Informática Empresarial",
+    "professional": {
+      "title": "PERFIL PROFESIONAL",
+      "description": "Soy una persona organizada, proactiva y adaptable, con una fuerte pasión por la tecnología y la resolución de problemas. Cuento con una base sólida en programación, mantenimiento de computadoras y sistemas de información, con experiencia tanto en entornos de hardware como de software. Estoy motivado a aprender nuevas herramientas y metodologías para optimizar procesos y ofrecer resultados eficientes y de alta calidad. Mi objetivo es crecer como desarrollador de software y contribuir a soluciones tecnológicas innovadoras y confiables."
+    },
+    "experience": {
+      "title": "EXPERIENCIA LABORAL",
+      "position1": "Práctica en LaT INFRA SOLUTIONS MANAGEMENT",
+      "position2": "Pasantía en IoT"
+    },
+    "education": {
+      "title": "EDUCACIÓN FORMAL",
+      "diploma1": "Bachillerato en Educación Media",
+      "diploma2": "Bachillerato en Informática Empresarial",
+      "diploma3": "Titulo de Educación General Básica"
+    },
+    "technicalSkills": {
+      "title": "HABILIDADES TÉCNICAS",
+      "skill1": "Lenguajes de programación:",
+      "skill2": "Tecnologías:",
+      "skill3": "Herramientas:"
+    },
+    "softSkills": {
+      "title": "HABILIDADES BLANDAS",
+      "skill1": "Organización y gestión del tiempo",
+      "skill2": "Trabajo en equipo y colaboración",
+      "skill3": "Resolución de problemas y pensamiento analítico",
+      "skill4": "Responsabilidad y compromiso",
+      "skill5": "Adaptabilidad a nuevas tecnologías y entornos",
+      "skill6": "Comunicación efectiva"
+    },
+    "languages": {
+      "title": "IDIOMAS",
+      "language1": "Español - Nativo",
+      "language2": "Inglés - Intermedio Alto (B2+)"
+    },
+    "courses": {
+      "title": "CURSOS Y CERTIFICACIONES"
+    },
+    "references": {
+      "title": "REFERENCIAS",
+      "position1": "Profesor de Informática.",
+      "position2": "Profesor de Inglés."
+    },
+    "footer":{
+        "mail":"Envíame un correo",
+        "phone":"Llámame",
+        "download":"Descargar CV",
+        "change_language":"Change to English"
+    }
+  },
+
+  "en": {
+    "degree": "Business Informatics",
+    "professional": {
+        "title": "PROFESSIONAL PROFILE",
+        "description": "I am an organized, proactive, and adaptable individual with a strong passion for technology and problem-solving. I have a solid foundation in programming, computer maintenance, and information systems, with experience across both hardware and software environments. I am eager to learn new tools and methodologies to optimize processes and deliver efficient, high-quality results. My goal is to grow as a software developer who contributes to innovative and reliable technological solutions."
+    },
+    "experience":{
+        "title":"WORK EXPERIENCE",
+        "position1":"Internship in LaT INFRA SOLUTIONS MANAGEMENT",
+        "position2":"Internship in IoT"
+    },
+    "education":{
+        "title": "FORMAL EDUCATION",
+        "diploma1":"High School Diploma",
+        "diploma2":"Bachelor's Degree in Business Informatics",
+        "diploma3":"General Education Diploma"
+    },
+
+    "technicalSkills":{
+        "title": "TECHNICAL SKILLS",
+        "skill1":"Programming Languages:",
+        "skill2":"Technologies:",
+        "skill3":"Tools:"
+    },
+    "softSkills": {
+        "title": "SOFT SKILLS",
+        "skill1":"Organization and time management",
+        "skill2":"Teamwork and collaboration",
+        "skill3":"Problem-solving and analytical thinking",
+        "skill4":"Responsibility and reliability",
+        "skill5":"Adaptability to new technologies and environments",
+        "skill6":"Effective communication"
+    },
+    "languages": {
+        "title":"LANGUAGES",
+        "language1":"Spanish - Native",
+        "language2":"English - Upper-Intermediate (B2+)"
+    },
+    "courses": {
+        "title":"COURSES AND CERTIFICATIONS"
+    },
+    "references":{
+        "title":"REFERENCES",
+        "position1":"Informatic Professor.",
+        "position2":"English Professor."
+    },
+    "footer":{
+        "mail":"Send me an email",
+        "phone":"Call me",
+        "download":"Download CV",
+        "change_language":"Cambiar a Español"
+    }
+  }
+}
