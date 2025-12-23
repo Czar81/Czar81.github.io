@@ -30,6 +30,14 @@ footer{
     margin-top: 50px;
 }
 
+button{
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font: inherit;
+    color: inherit;
+}
 .svg {
     vertical-align: middle;
     margin-right: 5px;
